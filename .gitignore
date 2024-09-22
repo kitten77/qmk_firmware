@@ -122,3 +122,5 @@ via*.json
 /keyboards/**/keymaps/vial/*
 
 !/keyboards/thunderboard
+lib/chibios-contrib
+lib/lufa
